@@ -1,0 +1,1 @@
+# OpenReel microservice adapters package
